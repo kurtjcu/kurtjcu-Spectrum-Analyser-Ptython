@@ -1,1 +1,2 @@
-# kurtjcu-Spectrum-Analyser-Ptython
+# A spectrum analyser for python
+
